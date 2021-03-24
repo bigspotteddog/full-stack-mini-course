@@ -1,4 +1,4 @@
-# How to Plan and Build a Project
+# Test How to Plan and Build a Project
 
 This article describes the process I have been using for several years to plan how to build any project whether it is a smaller personal project or a large project with a team of developers. This is also similar to the process we use on our team at work.
 
